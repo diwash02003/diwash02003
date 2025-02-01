@@ -1,69 +1,76 @@
-<h1 align="center">Hey there! 👋 I'm Diwash Pokhrel</h1>
-<h3 align="center">Just an IT student from Nepal trying to debug life one line at a time.</h3>
+<h1 align="center">Namaste 🙏 I'm Diwash Pokhrel</h1>
 
-<p align="left"> 
-  <a href="https://twitter.com/diwashp23200267" target="blank">
-    <img src="https://img.shields.io/twitter/follow/diwashp23200267?logo=twitter&style=for-the-badge" alt="diwashp23200267" />
-  </a> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=IT+Student+from+Nepal;Full+Stack+Developer;Java+%26+Spring+Boot+Developer;React+Frontend+Developer" alt="Typing SVG" />
 </p>
 
-- 🌱 Currently leveling up in **JAVA, SpringBoot, and JavaScript**. Catch me if you can!
 
-- 📫 You can send me some memes (or emails) at **pdiwash111@gmail.com**
 
-- 💬 Ask me about anything tech, especially if it's weird and wonderful.
+### About Me 👨‍💻
 
-<h3 align="left">Connect with me (Let's be internet friends!):</h3>
-<p align="left">
-  <a href="https://twitter.com/diwashp23200267" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diwashp23200267" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/diwash-pokhrel-b47189258" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwash-pokhrel-b47189258" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/diwash-pokhrel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diwash-pokhrel" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/diwash pokhrel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwash pokhrel" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/diwash_pokhrel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwash_pokhrel" height="30" width="40" />
-  </a>
-</p>
+I'm an IT student from Nepal who loves turning coffee into code. Currently exploring the vast world of software development and always excited to learn something new!
 
-<h3 align="left">Languages and Tools (aka my toolbox):</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
+- 🌱 Currently mastering **Java**, **Spring Boot**, and **React**
+- 💡 Always open to collaborating on interesting projects
+- 📫 Reach me at: **pdiwash111@gmail.com**
+- ⚡ Fun fact: I debug life one line at a time!
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwash02003&show_icons=true&locale=en&layout=compact" alt="diwash02003" />
-</p>
+### Featured Projects 🚀
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwash02003&" alt="diwash02003" />
-</p>
+- **[E-Commerce Platform](https://github.com/your-username/project)** - A full-stack e-commerce solution
+  - Features: User authentication, product management, shopping cart, payment integration
+  - Tech: Spring Boot, React, PostgreSQL, AWS
+
+- **[Task Management App](https://github.com/your-username/project)** - Modern task management application
+  - Features: Real-time updates, team collaboration, task tracking
+  - Tech: React, Spring Boot, PostgreSQL
+
+- **[Portfolio Website](https://github.com/your-username/project)** - Personal portfolio website
+  - Features: Responsive design, dark/light mode, contact form
+  - Tech: React, TypeScript, Tailwind CSS
+
+### Tech Stack 🛠️
+
+<div align="center">
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Others**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+### Let's Connect! 🤝
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diwash-pokhrel-b47189258)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/diwashp23200267)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diwash_pokhrel)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/diwash-pokhrel)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/diwash%20pokhrel)
+
+</div>
+
+### GitHub Stats 📈
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diwash02003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwash02003&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
