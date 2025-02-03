@@ -26,7 +26,7 @@ I'm an IT student from Nepal who loves turning coffee into code. Currently explo
   - Features: Real-time updates, team collaboration, task tracking
   - Tech: React, Spring Boot, PostgreSQL
 
-- **[Portfolio Website](https://github.com/your-username/project)** - Personal portfolio website
+- **[Portfolio Website](https://diwash02003.github.io/portfolio/)** - Personal portfolio website
   - Features: Responsive design, dark/light mode, contact form
   - Tech: React, TypeScript, Tailwind CSS
 
