@@ -14,6 +14,7 @@ I'm an IT student from Nepal who loves turning coffee into code. Currently explo
 - 🌱 Currently mastering **Java**, **Spring Boot**, and **React**
 - 💡 Always open to collaborating on interesting projects
 - 📫 Reach me at: **pdiwash111@gmail.com**
+- 
 - ⚡ Fun fact: I debug life one line at a time!
 
 ### Featured Projects 🚀
