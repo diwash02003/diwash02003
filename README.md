@@ -1,77 +1,106 @@
-<h1 align="center">Namaste 🙏 I'm Diwash Pokhrel</h1>
+# Namaste! I'm Diwash Pokhrel
 
+<div align="center">
+  <h3>Java & Spring Boot Backend Developer</h3>
+  <p>Building backend systems and solving real problems</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=IT+Student+from+Nepal;Full+Stack+Developer;Java+%26+Spring+Boot+Developer;React+Frontend+Developer" alt="Typing SVG" />
-</p>
+---
 
+## About Me
 
+I'm a backend developer who works with **Java and Spring Boot**. I've built government systems at **Yenyasoft** and love writing clean code. Currently learning backend architecture and APIs.
 
-### About Me 👨‍💻
+- Working with: Java, Spring Boot, MySQL, APIs
+- Experience: Government systems, payment handling, database design
+- Learning: Spring Boot patterns, system design, deployment
+- Reach me: **pdiwash111@gmail.com**
 
-I'm an IT student from Nepal who loves turning coffee into code. Currently exploring the vast world of software development and always excited to learn something new!
+---
 
-- 🌱 Currently mastering **Java**, **Spring Boot**, and **React**
-- 💡 Always open to collaborating on interesting projects
-- 📫 Reach me at: **pdiwash111@gmail.com**
-  
-- ⚡ Fun fact: I debug life one line at a time!
+## My Projects
 
-### Featured Projects 🚀
+### 1. **PSC-EEMS** — Exam Expense System
 
-- **[E-Commerce Platform](https://github.com/your-username/project)** - A full-stack e-commerce solution
-  - Features: User authentication, product management, shopping cart, payment integration
-  - Tech: Spring Boot, React, PostgreSQL, AWS
+Government system for tracking exam budgets and expenses for Nepal's Public Service Commission.
 
-- **[Task Management App](https://github.com/your-username/project)** - Modern task management application
-  - Features: Real-time updates, team collaboration, task tracking
-  - Tech: React, Spring Boot, PostgreSQL
+- Tech: Java, Spring Boot, MySQL, RBAC
 
-- **[Portfolio Website](https://diwash02003.github.io/portfolio/)** - Personal portfolio website
-  - Features: Responsive design, dark/light mode, contact form
-  - Tech: React, TypeScript, Tailwind CSS
+### 2. **G-Pass** — Bank Visitor Tracking
 
-### Tech Stack 🛠️
+Visitor management system for Nepal Rastra Bank branches. Replaced paper records with digital tracking.
+
+- Tech: Java, Spring Boot, APIs, security
+
+### 3. **MOICS Dashboard** — Government Forms System
+
+System for collecting data through dynamic forms for government agencies.
+
+- Tech: Java, Spring Boot, APIs
+
+### 4. **Jobejee Migration** — System Upgrade
+
+Moved a legacy application from AWS to local server. Updated code to new standards.
+
+- Tech: Java, Spring Boot
+
+### 5. **WonderKidz Pre School Billing** — Billing App
+
+Student management and billing system for schools. Frontend and backend both.
+
+- Tech: React, Spring Boot, databases
+
+### 6. **Modern CV Generator** — Learning Project
+
+Practice project from my first days learning Java. Built file handling and OOP basics.
+
+- Tech: Java, file I/O, basic OOP
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 **Database**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Others**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-### Let's Connect! 🤝
+---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diwash-pokhrel-b47189258)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/diwashp23200267)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diwash_pokhrel)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/diwash-pokhrel)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/diwash%20pokhrel)
-
-</div>
-
-### GitHub Stats 📈
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diwash02003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwash02003&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdiwash111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diwash-pokhrel-b47189258)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diwash02003)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diwashp23200267)
+
+</div>
+
+---
